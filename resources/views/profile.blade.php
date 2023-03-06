@@ -13,6 +13,8 @@
                 Jurusan: {!! $jurusan !!} <br>
                 Asal Daerah: {!! $asal !!} <br>
 
+                //ini percobaan
+                
             </div>
         </div>
     </div>
