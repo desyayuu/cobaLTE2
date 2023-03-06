@@ -30,4 +30,5 @@ Route::get('/profile', [ProfilController::class, 'index'])->name('prof');
 Route::get('/pengalaman-kuliah', [KuliahController::class, 'index'])->name('pk');
 
 
-//coba
+//coba lagi
+
