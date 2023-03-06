@@ -6,5 +6,5 @@
       <b>Version</b> 3.2.0
     </div>
     
-    
+  
   </footer>
