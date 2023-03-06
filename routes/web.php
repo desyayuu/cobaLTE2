@@ -19,7 +19,6 @@ Route::get('/', function () {
     return view('layout.template');
     
 });
-
 //Dashboaard
 Route::get('/dashboard', [DashboardController::class, 'index'])->name('dash');
 
