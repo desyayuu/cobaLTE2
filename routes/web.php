@@ -17,5 +17,6 @@ use App\Http\Controllers\KuliahController;
 
 Route::get('/', function () {
     return view('layout.template');
+    
 });
 
