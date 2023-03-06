@@ -16,7 +16,11 @@
                 //apa ini bisa yu?
                 //ini bisa nggak?
                 //ini percobaan terkahir bismillah
+<<<<<<< HEAD
                 //ini dilla lagi
+=======
+                //ini ayu yang nyoba
+>>>>>>> 9509b3d2b0ac4b9068441696951f3d3d13c47825
 
             </div>
         </div>
