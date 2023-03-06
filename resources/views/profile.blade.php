@@ -14,7 +14,8 @@
                 Asal Daerah: {!! $asal !!} <br>
 
                 //apa ini bisa yu?
-                
+                //ini bisa nggak?
+
             </div>
         </div>
     </div>
