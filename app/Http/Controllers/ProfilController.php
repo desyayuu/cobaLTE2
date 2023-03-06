@@ -15,5 +15,6 @@ class ProfilController extends Controller
         ->with('jurusan', 'D4 Teknik Informatika')
         ->with('asal', 'Sumenep');
 
+        //ini percobaan sinkronisasi
     }
 }
