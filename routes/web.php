@@ -20,3 +20,13 @@ Route::get('/', function () {
     
 });
 
+//Dashboaard
+Route::get('/dashboard', [DashboardController::class, 'index'])->name('dash');
+
+
+//Profile
+Route::get('/profile', [ProfilController::class, 'index'])->name('prof');
+
+//Pengalaman 
+Route::get('/pengalaman-kuliah', [KuliahController::class, 'index'])->name('pk');
+
