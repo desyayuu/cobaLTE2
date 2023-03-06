@@ -12,6 +12,9 @@
                 Kelas: {!! $kelas !!} <br>
                 Jurusan: {!! $jurusan !!} <br>
                 Asal Daerah: {!! $asal !!} <br>
+
+                //apa ini bisa yu?
+                
             </div>
         </div>
     </div>
